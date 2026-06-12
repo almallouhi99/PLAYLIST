@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="sports1" tvg-logo="https://example.com/logos/sports1.png" group-title="Sports - رياضة", القناة الرياضية الأولى
-http://your-streaming-server.com:8080/live/username/password/1001.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science", قناة ناسا الفضائية (NASA TV)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="sports2" tvg-logo="https://example.com/logos/sports2.png" group-title="Sports - رياضة", القناة الرياضية الثانية
-http://your-streaming-server.com:8080/live/username/password/1002.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Red_Bull_TV_logo.svg" group-title="Sports", ريد بول تي في (Red Bull TV)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:2700 tvg-logo="https://example.com/logos/series-poster.png" group-title="Series - مسلسلات", مسلسل المبرمج - الحلقة 1
-http://your-streaming-server.com/vod/series/programmer_ep1.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Tears_of_Steel_poster.jpg" group-title="Movies", فيلم اختبار للمطورين (Tears of Steel)
+http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8
 
-#EXTINF:2800 tvg-logo="https://example.com/logos/series-poster.png" group-title="Series - مسلسلات", مسلسل المبرمج - الحلقة 2
-http://your-streaming-server.com/vod/series/programmer_ep2.mp4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Big_Buck_Bunny_thumbnail_vlc.png" group-title="Movies", مقطع اختبار للمطورين (Big Buck Bunny)
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
